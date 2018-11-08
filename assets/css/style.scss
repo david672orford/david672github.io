@@ -1,4 +1,7 @@
 ---
 ---
 @import "{{ site.theme }}";
-BODY { background-color: green; }
+H1 {
+  background-color: green;
+  color: white;
+}
