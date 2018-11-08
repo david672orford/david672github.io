@@ -1,7 +1,13 @@
 ---
 ---
 @import "{{ site.theme }}";
+BODY {
+  margin: 0;
+  padding: 12px;
+}
 H1 {
+  margin: -12px;
+  padding: 12px;
   background-color: green;
   color: white;
 }
