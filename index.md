@@ -1,2 +1,2 @@
 # iStead
-A Place in the Internet
+A Place on the Internet
