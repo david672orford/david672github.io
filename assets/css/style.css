@@ -32,3 +32,8 @@ H1 A {
 UL {
 	padding-left: 2em;
 	}
+
+.google_search .gsc-control-cse {
+  padding: 0;
+ }
+
