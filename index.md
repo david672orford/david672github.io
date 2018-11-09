@@ -1,6 +1,6 @@
 {{ site.description }}
 
-<div>
+<div class="google_search">
  <script>
   (function() {
     var cx = 'partner-pub-9697496962185999:9413486323';
