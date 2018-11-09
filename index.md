@@ -1,4 +1,4 @@
-A Place on the Internet
+{{ site.description }}
 
 <script>
   (function() {
