@@ -1,8 +1,8 @@
 HTML, BODY, HEADER, MAIN, H1, H2, UL, LI {
 	margin: 0;
 	padding: 0;
+	color: black;
 	background-color: white;
-	color: grey;
 	}
 BODY {
 	font-size: 12pt;
