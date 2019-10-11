@@ -15,6 +15,9 @@ HEADER {
 	color: white;
 	background-color: grey;
 	}
+.site_description {
+	font-size: 50%;
+	}
 H1 {
 	font-family: sans-serif;
 	font-size: 150%;
