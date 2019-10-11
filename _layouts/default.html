@@ -5,9 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
 <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-{% if background_image %}
+{% if site.background_image %}
 <style type="text/css">
-  BODY { background-image: url("/assets/backgrounds/{{ background_image }}"); }
+  BODY { background-image: url("/assets/backgrounds/{{ site.background_image }}"); }
 </style>
 {% endif %}
 </head>
@@ -31,6 +31,6 @@
 </script>
 {% endif %}
 
-<footer>{{ background_credit }}</footer>
+<footer>{{ site.background_credit }}</footer>
 </body>
 </html>
