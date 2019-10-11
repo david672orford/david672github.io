@@ -4,6 +4,10 @@ HTML, BODY, HEADER, MAIN, H1, H2, UL, LI {
 	color: black;
 	background-color: white;
 	}
+HTML, BODY {
+	width: 100%;
+	height: 100%;
+	}
 BODY {
 	font-size: 12pt;
 	}
