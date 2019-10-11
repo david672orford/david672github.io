@@ -4,3 +4,4 @@ Some text will go here.
 
 And here there will be a second paragraph. 
 
+Background image by Daniel Kirsch via Pixabay
