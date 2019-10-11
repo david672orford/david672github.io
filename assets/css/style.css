@@ -1,8 +1,6 @@
 HTML, BODY, HEADER, MAIN, H1, H2, UL, LI {
 	margin: 0;
 	padding: 0;
-	color: black;
-	background-color: white;
 	}
 HTML, BODY {
 	width: 100%;
@@ -10,6 +8,8 @@ HTML, BODY {
 	}
 BODY {
 	font-size: 12pt;
+	color: white;
+	background-color: grey;
 	}
 MAIN {
 	margin: 10pt;
@@ -27,6 +27,7 @@ H1 {
 	font-size: 150%;
 	color: inherit;
 	background-color: inherit;
+	padding: 5px;
 	}
 H2 {
 	font-family: sans-serif;
@@ -40,7 +41,7 @@ UL {
 	padding-left: 2em;
 	}
 
-.google_search .gsc-control-cse {
-  padding: 0;
+.gsc-control-cse-searchbox-only {
+  padding: 5px;
  }
 
