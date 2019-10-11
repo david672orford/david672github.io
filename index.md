@@ -3,7 +3,7 @@
 <div class="google_search">
  <script>
   (function() {
-    var cx = 'partner-pub-9697496962185999:9413486323';
+    var cx = 'ca-pub-9697496962185999';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
