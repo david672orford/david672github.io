@@ -41,6 +41,9 @@ UL {
 	padding-left: 2em;
 	}
 FOOTER {
+	position: fixed;
+	left: 0;
+	buttom: 0;
 	padding: 12px;
 	}
 
