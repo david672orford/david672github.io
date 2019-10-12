@@ -12,14 +12,20 @@
 {% endif %}
 </head>
 <body>
+
 <header>
-  <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a> <span class="site_description">{{ site.description }}</span></h1>
+  <h1>
+    <a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
+    <span class="site_description">{{ site.description }}</span>
+  </h1>
 </header>
 
 <main>
- {{ content }}
+  {{ content }}
 </main>
   
+<footer>{{ site.background_credit }}</footer>
+
 {% if site.google_analytics %}
 <script>
    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -31,6 +37,5 @@
 </script>
 {% endif %}
 
-<footer>{{ site.background_credit }}</footer>
 </body>
 </html>
