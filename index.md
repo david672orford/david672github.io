@@ -1,4 +1,4 @@
-Welcome to Nuhub, a place whence mini sites radiate!
+Welcome to Nuhub!
 
 ## Sites at Nuhub.net
 
