@@ -1,3 +1,3 @@
 <h2>Contents</h2>
-* [Russian Language List](https://russian-language-list.nuhub.net)
-* [Tech for Teaching](https://tech-for-teaching.nuhub.net)
+# [Russian Language List](https://russian-language-list.nuhub.net)
+# [Tech for Teaching](https://tech-for-teaching.nuhub.net)
