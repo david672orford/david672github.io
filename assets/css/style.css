@@ -40,6 +40,9 @@ H2 {
 UL {
 	padding-left: 2em;
 	}
+A {
+	color: inherit;
+	}
 FOOTER {
 	position: fixed;
 	left: 0;
