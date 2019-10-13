@@ -1,4 +1,4 @@
-Welcome to Nuhub!
+Welcome to Nuhub.net!
 
 ## Sites at Nuhub.net
 
