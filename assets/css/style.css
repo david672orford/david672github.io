@@ -14,6 +14,7 @@ BODY {
 	}
 MAIN {
 	margin: 1em;
+	max-width: 800px;	/* unique to www.nuhub.net */
 	}
 HEADER {
 	padding: 12px;
