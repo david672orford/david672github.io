@@ -24,7 +24,7 @@ MAIN {
 	}
 .google_ads {
 	margin: 1em;
-	border: thin solid #9F6B3F;
+	border: thin solid #9F6B3F40;
 	}
 FOOTER {
 	display: flex;
