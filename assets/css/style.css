@@ -2,6 +2,9 @@ HTML, BODY, HEADER, MAIN, H1, H2, UL, LI {
 	margin: 0;
 	padding: 0;
 	}
+HTML, BODY {
+	height: 100%;
+	}
 BODY {
 	position: relative;
 	font-family: sans-serif;
