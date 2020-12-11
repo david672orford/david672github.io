@@ -1,6 +1,4 @@
-Welcome to Nuhub.net!
-
-## Sites at Nuhub.net
+## Featured Sites
 
 <ul class="tiles">
   <li><a href="https://russian-language-list.nuhub.net">
