@@ -23,6 +23,7 @@ MAIN {
 	max-width: 700px;	/* unique to www.nuhub.net */
 	}
 .google_ads {
+	margin: 1em;
 	border: thin solid #9F6B3F;
 	}
 FOOTER {
