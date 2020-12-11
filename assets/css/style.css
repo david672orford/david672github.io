@@ -3,7 +3,7 @@ HTML, BODY, HEADER, MAIN, H1, H2, H3 {
 	padding: 0;
 	}
 HTML, BODY {
-	min-height: vh;
+	min-height: 100vh;
 	}
 BODY {
 	position: relative;
