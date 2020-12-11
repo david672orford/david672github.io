@@ -82,7 +82,7 @@ UL.tiles LI {
     margin: .5em;
     padding: .5em;
     width: 20em;
-    background-color: rgba(1.0,1.0,1.0,0.5);
+    background-color: rgba(0,0,0,0.5);
     border: 1px solid grey;
     border-radius: 7px;
     box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.40);
