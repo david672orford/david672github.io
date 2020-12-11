@@ -81,7 +81,7 @@ UL.tiles LI {
     flex-grow: 1;
     margin: .5em;
     padding: .5em;
-    width: 20em;
+    width: 15em;
     background-color: rgba(0,0,0,0.5);
     border: 1px solid grey;
     border-radius: 7px;
