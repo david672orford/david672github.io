@@ -1,4 +1,4 @@
-HTML, BODY, HEADER, MAIN, H1, H2, UL, LI {
+HTML, BODY, HEADER, MAIN, H1, H2, H3 {
 	margin: 0;
 	padding: 0;
 	}
@@ -41,7 +41,6 @@ H1 {
 	font-size: 150%;
 	color: inherit;
 	background-color: inherit;
-	padding: 5px;
 	}
 H1 A {
 	text-decoration: inherit;
