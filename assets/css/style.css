@@ -11,9 +11,10 @@ BODY {
 	font-size: 14pt;
 	color: white;
 	background-color: grey;
+	padding-bottom: 2em;
 	}
 HEADER {
-	padding: 12px;
+	padding: 1em;
 	color: white;
 	background-color: #9F6B3F;
 	}
@@ -28,8 +29,8 @@ FOOTER {
 	left: 0;
 	bottom: 0;
 	right: 0;
-	padding: 12px;
-	font-size: 12pt;
+	padding: 1em;
+	font-size: 90%;
 	background-color: #9F6B3F80;
 	}
 .site_description {
