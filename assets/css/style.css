@@ -14,7 +14,7 @@ BODY {
 	padding-bottom: 3em;	/* space for footer */
 	}
 HEADER {
-	padding: 1em;
+	padding: .75em;
 	color: white;
 	background-color: #9F6B3F;
 	}
@@ -29,7 +29,7 @@ FOOTER {
 	left: 0;
 	bottom: 0;
 	right: 0;
-	padding: 1em;
+	padding: .75em;
 	font-size: 90%;
 	background-color: #9F6B3F80;
 	}
