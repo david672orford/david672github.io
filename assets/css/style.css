@@ -2,24 +2,31 @@ HTML, BODY, HEADER, MAIN, H1, H2, UL, LI {
 	margin: 0;
 	padding: 0;
 	}
-HTML, BODY {
-	width: 100%;
-	height: 100%;
-	}
 BODY {
+	position: relative;
 	font-family: sans-serif;
 	font-size: 14pt;
 	color: white;
 	background-color: grey;
 	}
-MAIN {
-	margin: 1em;
-	max-width: 700px;	/* unique to www.nuhub.net */
-	}
 HEADER {
 	padding: 12px;
 	color: white;
 	background-color: #9F6B3F;
+	}
+MAIN {
+	margin: 1em;
+	max-width: 700px;	/* unique to www.nuhub.net */
+	}
+FOOTER {
+	display: flex;
+	justify-content: space-between;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	padding: 12px;
+	font-size: 12pt;
 	}
 .site_description {
 	font-size: 50%;
@@ -51,16 +58,6 @@ LI {
 	}
 A {
 	color: inherit;
-	}
-FOOTER {
-	display: flex;
-	justify-content: space-between;
-	position: fixed;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	padding: 12px;
-	font-size: 12pt;
 	}
 
 .gsc-control-cse-searchbox-only {
