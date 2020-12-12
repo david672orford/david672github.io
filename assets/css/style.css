@@ -17,6 +17,7 @@ HEADER {
 	padding: .75em;
 	color: white;
 	background-color: #9F6B3FC0;
+	border-bottom: 1px solid #9F6B3F;
 	}
 MAIN {
 	margin: 1em;
@@ -35,6 +36,7 @@ FOOTER {
 	padding: .75em;
 	font-size: 90%;
 	background-color: #9F6B3FC0;
+	border-top: 1px solid #9F6B3F;
 	}
 H1 {
 	font-family: sans-serif;
